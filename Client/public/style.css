@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+font-style: italic;
+}
+    
+    img{
+      
+      display: block;
+      width: 10vh;
+      height: 10vh;
+      background-color: transparent;
+    }
+   input{
+    height: 45px;
+    font-size: 1rem;
+    font-family:sans-serif;
+    
+   }
